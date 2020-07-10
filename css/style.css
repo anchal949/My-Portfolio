@@ -1,0 +1,43 @@
+a:link{
+   color: white;
+
+  }
+  a:visited{
+  	color: white;
+  }
+  a:hover{
+  	color: blue;
+  }
+  
+  .bg-black{
+    background-color: black;
+  }
+  .font-div{
+    width: 40%;
+
+  }
+  img{
+    width: 100%;
+    height: 100%;
+  }
+  @media only screen and (min-width: 1198px)
+  {
+    .font-div{
+      padding: 52px 0px!important;
+    }
+    
+  }
+  .bgorange{
+    background-color: orange;
+  }
+  .bgpale{
+    background-color: #fbe8ce;
+  }
+  .bgbeige{
+    background-color: #e5e8f2;
+  }
+  
+  
+  .bgchill{
+    background-color: #cffdbc;
+  }

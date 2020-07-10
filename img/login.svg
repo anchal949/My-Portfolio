@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Path_1" x="213" y="96" width="776" height="921" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#514f56" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="496" height="362" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="rgba(51,255,149,0.5)"/>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(960 128)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="747" height="806" stroke="none"/>
+      <rect x="0.5" y="0.5" width="746" height="805" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1)">
+      <path id="Path_1-2" data-name="Path 1" d="M0,0H747V889H0Z" transform="translate(213 96)" fill="#212121" opacity="0.81"/>
+    </g>
+    <text id="LOGIN" transform="translate(483 239)" fill="#fff" font-size="80" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">LOGIN</tspan></text>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M-275,139H-845V38h570V139ZM-833,46.06v84.88h547V46.06Z" transform="translate(1158 737)" fill="#33ff95"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M-349,139H-845V38h496V139ZM-834.558,46.06v84.88h475.986V46.06Z" transform="translate(1931 743)" fill="#33ff95"/>
+    <text id="LOGIN-2" data-name="LOGIN" transform="translate(535 839)" fill="#fff" font-size="40" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">LOGIN</tspan></text>
+    <line id="Line_3" data-name="Line 3" x2="233" transform="translate(597.5 274.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Line_5" data-name="Line 5" x2="570" transform="translate(312.5 434.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Line_6" data-name="Line 6" x2="570" transform="translate(312.5 627.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <text id="SIGN-UP" transform="translate(1158 239)" fill="#34483e" font-size="80" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">SIGN-UP</tspan></text>
+    <line id="Line_4" data-name="Line 4" x2="233" transform="translate(1386.5 274.5)" fill="none" stroke="#34483e" stroke-width="3"/>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1086 359)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="496" height="75" stroke="none"/>
+      <rect x="0.5" y="0.5" width="495" height="74" fill="none"/>
+    </g>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(1086 359)" clip-path="url(#clip-path)">
+      <g transform="translate(-1086 -359)">
+        <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(1086 359)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="496" height="75" stroke="none"/>
+          <rect x="0.5" y="0.5" width="495" height="74" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1086 -225)">
+        <g id="Rectangle_7-2" data-name="Rectangle 7" transform="translate(1086 359)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="496" height="75" stroke="none"/>
+          <rect x="0.5" y="0.5" width="495" height="74" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1086 -91)">
+        <g id="Rectangle_7-3" data-name="Rectangle 7" transform="translate(1086 359)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="496" height="75" stroke="none"/>
+          <rect x="0.5" y="0.5" width="495" height="74" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="USERNAME" transform="translate(1244 407)" fill="#34483e" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">USERNAME</tspan></text>
+    <text id="PASSWORD" transform="translate(1244 541)" fill="#34483e" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">PASSWORD</tspan></text>
+    <text id="PASSWORD-2" data-name="PASSWORD" transform="translate(1244 541)" fill="#34483e" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">PASSWORD</tspan></text>
+    <text id="EMAIL" transform="translate(1285 676)" fill="#34483e" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">EMAIL</tspan></text>
+    <text id="SIGN_UP" transform="translate(1246 846)" fill="#34483e" font-size="40" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">SIGN_UP</tspan></text>
+    <text id="USERNAME-2" data-name="USERNAME" transform="translate(323 409)" fill="#fff" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">USERNAME</tspan></text>
+    <text id="PASSWORD-3" data-name="PASSWORD" transform="translate(323 604)" fill="#fff" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">PASSWORD</tspan></text>
+  </g>
+</svg>
